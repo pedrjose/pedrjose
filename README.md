@@ -2,7 +2,7 @@
 ---
 Currently I'm in 6th period of Science Computer Graduating and have interested about app development, web application, and indie games! 
 
-A little about me: https://pedrjose.github.io/e-portfolio/
+A little more about me: https://pedrjose.github.io/e-portfolio/
 
 <div>
   <a href="https://github.com/pedrjose">
