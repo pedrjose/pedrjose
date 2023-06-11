@@ -1,7 +1,10 @@
-### Hi human, I'm Pedro. Welcome! 🧛‍♂️🖐️
+### Hi human, I'm Pedro! 🧛‍♂️🖐️
 ---
-- Currently I'm in 6th period of Science Computer Graduating; 
-- Have interested about app development, web application, and indie games.
+I'm a 23-year-old Computer Science student, currently in my 6th semester, with a focus on Full Stack development and Web Development. I'm a SE Palmeiras supporter, a fan of comics, and a lover of music and cinema, so don't be surprised if you come across projects with these themes on my profile.
+
+
+
+Welcome and feel free to explore my repositories! ;)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
