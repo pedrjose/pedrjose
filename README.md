@@ -1,6 +1,6 @@
 ## Hi human, I'm Pedro... 🧛‍♂️🖐️
 
-computer Science student, currently in my 6th period, with a focus on Full Stack development and Web Development! 
+Computer Science student, currently in my 6th period, with a focus on Full Stack development and Web Development! 
 
 I'm a SE Palmeiras supporter, a fan of comics, and a lover of music and cinema, so don't be surprised if you find projects with these themes on my profile.
 
