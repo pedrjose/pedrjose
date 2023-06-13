@@ -1,4 +1,4 @@
-## Hi human, I'm Pedro! 🧛‍♂️🖐️
+## Hi human, I'm Pedro... 🧛‍♂️🖐️
 
 Computer Science student, currently in my 6th period, with a focus on Full Stack development and Web Development! 
 
@@ -11,9 +11,6 @@ Welcome and feel free to explore my repositories! ;)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrjose&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrjose&hide_progress=true&theme=radical)
-
-
-
 
 ### Stacks:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
